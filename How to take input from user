@@ -1,0 +1,7 @@
+name=input("Enter your name:")
+age=int(input("Enter Age:"))
+marks=float(input("Enter Marks:"))
+
+print("Welcome", name)
+print("Age:",age)
+print("marks:",marks)
