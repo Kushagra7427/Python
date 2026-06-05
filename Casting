@@ -1,0 +1,13 @@
+#Exapmle 1
+a=int("2")
+b=4.25
+
+print(type(a))
+print(a+b)
+
+
+#Example 2
+a=float("2")
+b=4.25
+print(type(a))
+print(a+b)
